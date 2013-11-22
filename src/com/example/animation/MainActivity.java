@@ -10,6 +10,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		//试试从git-hub上面拉下来的汉字是否正确显示
 	}
 
 	@Override
